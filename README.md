@@ -1,6 +1,6 @@
 # gestion_projet
 
-
+``` 
 myproject/         # Répertoire principal du projet Django
 ├── myproject/     # Répertoire contenant les paramètres globaux du projet
 │   ├── __init__.py
@@ -39,6 +39,8 @@ myproject/         # Répertoire principal du projet Django
     ├── tests.py
     ├── urls.py     # URLs de l'application "equipes"
     └── views.py    # Vues de l'application "equipes"
+
+```
 
 1. **Créer un environnement virtuel :**
 
